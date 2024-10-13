@@ -33,5 +33,3 @@ import java.util.Scanner;
                     base, overage, tax, total);
         }
     }
-
-}
